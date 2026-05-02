@@ -1,6 +1,6 @@
 # bem-linda-makes-loja
 Loja de maquiagem Bem Linda Makes
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -19,14 +19,6 @@ header {
     color: white;
     padding: 30px;
     text-align: center;
-}
-
-header h1 {
-    margin: 0;
-}
-
-header p {
-    margin: 10px 0;
 }
 
 .btn {
@@ -53,10 +45,6 @@ header p {
     text-align: center;
 }
 
-.card h3 {
-    margin: 10px 0;
-}
-
 .price {
     color: #ff5e8a;
     font-weight: bold;
@@ -75,23 +63,3 @@ header p {
 </header>
 
 <div class="container">
-
-    <div class="card">
-        <h3>Base Ruby Rose</h3>
-        <p class="price">R$ 21,90</p>
-    </div>
-
-    <div class="card">
-        <h3>Corretivo Melu</h3>
-        <p class="price">R$ 16,90</p>
-    </div>
-
-    <div class="card">
-        <h3>Blush Ruby Rose</h3>
-        <p class="price">R$ 24,90</p>
-    </div>
-
-</div>
-
-</body>
-</html>
